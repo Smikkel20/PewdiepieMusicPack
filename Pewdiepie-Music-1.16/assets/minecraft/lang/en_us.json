@@ -1,5 +1,8 @@
 {
-  "item.minecraft.music_disc_13.desc": "§cCongratulations",
-  "item.minecraft.music_disc_blocks.desc": "§cBitch Lasagna",
-  "item.minecraft.music_disc_11.desc": "§cCoco"
+  "item.minecraft.music_disc_13.desc": "§4Congratulations",
+  "item.minecraft.music_disc_blocks.desc": "§4Bitch Lasagna",
+  "item.minecraft.music_disc_11.desc": "§4Coco",
+  "item.minecraft.music_disc_far.desc": "§4Mine All Day",
+  "item.minecraft.music_disc_mellohi.desc": "§4Hey Monika Remix"
+
 }
