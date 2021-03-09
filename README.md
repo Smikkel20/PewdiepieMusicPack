@@ -7,4 +7,5 @@ Songs changed:
 - Disk 13 to Congratulations
 - Blocks to Bitch Lasagna
 - Far to Mine All Day
-- Mellohi to Hey Monika remix
+- Mellohi to Hej Monika remix
+- Stal to PEWDIEPIE - Bad History
